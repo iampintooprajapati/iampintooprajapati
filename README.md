@@ -5,7 +5,7 @@
 </h3>
 
 <img
-  align="left"
+  align="right"
   alt="coding"
   width="400"
   hight="250"
