@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pintoo Prajapati</h1>
 <h3 align="center">
-  SDE | Flutter Developer | Building High-Performance Cross-Platform Apps |
-  React
+  SDE | Flutter Developer | Building High-Performance Cross-Platform Apps
+  
 </h3>
 
 <img
