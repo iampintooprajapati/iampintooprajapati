@@ -18,8 +18,8 @@
   />
 </p>
 
-- 📫 How to reach me **iampintooprajapati@gmail.com** - ⚡ Fun fact **I think I
-am lazy**
+- 📫 How to reach me **iampintooprajapati@gmail.com**
+-  ⚡ Fun fact **I think I am lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -123,13 +123,7 @@ am lazy**
   />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=iampintooprajapati&show_icons=true&locale=en"
-    alt="iampintooprajapati"
-  />
-</p>
+
 
 <p>
   <img
