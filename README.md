@@ -19,8 +19,17 @@
   />
 </p>
 
+- 🔭 I’m currently working on **For the V**
+
+- 🌱 I’m currently learning **JavaScript , React**
+
+- 👯 I’m looking to collaborate on **busy now in some stuff**
+
+- 💬 Ask me about **Android and Flutter Development**
+
 - 📫 How to reach me **iampintooprajapati@gmail.com**
--  ⚡ Fun fact **I think I am lazy**
+
+- ⚡ Fun fact **I think I am lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
