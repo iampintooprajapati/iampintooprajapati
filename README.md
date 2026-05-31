@@ -19,7 +19,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **For the V**
+- 🔭 I’m currently working on **For the M**
 
 - 🌱 I’m currently learning **JavaScript , React**
 
