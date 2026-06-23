@@ -14,8 +14,8 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=iampintooprajapati&label=Profile%20views&color=0e75b6&style=flat"
-    alt="iampintooprajapati"
+    src="https://komarev.com/ghpvc/?username=impintooprajapati&label=Profile%20views&color=0e75b6&style=flat"
+    alt="impintooprajapati"
   />
 </p>
 
@@ -31,11 +31,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/iampintooprajapati" target="blank"
+  <a href="https://linkedin.com/in/impintooprajapati" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="iampintooprajapati"
+      alt="impintooprajapati"
       height="30"
       width="40"
   /></a>
@@ -126,8 +126,8 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=iampintooprajapati&show_icons=true&locale=en&layout=compact"
-    alt="iampintooprajapati"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=impintooprajapati&show_icons=true&locale=en&layout=compact"
+    alt="impintooprajapati"
   />
 </p>
 
@@ -136,7 +136,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=iampintooprajapati&"
-    alt="iampintooprajapati"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=impintooprajapati&"
+    alt="impintooprajapati"
   />
 </p>
