@@ -1,142 +1,110 @@
+
 <h1 align="center">Hi 👋, I'm Pintoo Prajapati</h1>
+
 <h3 align="center">
-  SDE | Flutter Developer | Building High-Performance Cross-Platform Apps
-  
+Flutter Developer • Software Engineer • Building Beautiful Cross-Platform Experiences
 </h3>
 
-<img
-  align="right"
-  alt="coding"
-  width="400"
-  hight="250"
-  src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif"
-/>
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=impintooprajapati&label=Profile%20views&color=0e75b6&style=flat"
-    alt="impintooprajapati"
-  />
+<p align="center">
+Passionate about crafting fast, scalable, and pixel-perfect applications with Flutter.
+I enjoy transforming ideas into polished digital products with clean architecture,
+smooth animations, and exceptional user experiences.
 </p>
 
-- 🔭 I’m currently working on **For the M**
-
-- 🌱 I’m currently learning **JavaScript , React**
-
-- 👯 I’m looking to collaborate on **busy now in some stuff**
-
-- 💬 Ask me about **Android and Flutter Development**
-  
-- ⚡ Fun fact **I think I am lazy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/impintooprajapati" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="impintooprajapati"
-      height="30"
-      width="40"
-  /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=impintooprajapati&label=Profile%20Views&color=00C853&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"
-      alt="appwrite"
-      width="30"
-      height="30"
-    />
-  </a>
-  
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-      alt="kotlin"
-      width="30"
-      height="30"
-    />
-  </a>
-  
-</p>
+<img align="right" width="380" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif"/>
 
+## 🚀 About Me
+
+- 📱 Flutter Developer focused on high-performance mobile & web applications
+- 💼 Software Engineer passionate about scalable products
+- 🌱 Currently learning **JavaScript, React & modern web technologies**
+- 🔥 Building my personal portfolio using **Flutter Jasper**
+- 🎨 Love creating premium UI, animations & interactive experiences
+- ⚡ Interested in Clean Architecture, Firebase & Backend Development
+- 💬 Ask me about **Flutter, Dart, Android, Firebase & App Architecture**
+- 💚 Marvel fan (Team Loki)
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=impintooprajapati&show_icons=true&locale=en&layout=compact"
-    alt="impintooprajapati"
-  />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
 </p>
 
-
-
+### Web
 <p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=impintooprajapati&"
-    alt="impintooprajapati"
-  />
+<img src="https://skillicons.dev/icons?i=javascript,react,html,css" />
 </p>
+
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,mongodb" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+## 🌟 Currently Working On
+
+- 🚀 Premium Personal Portfolio
+- 📱 Flutter Applications
+- 🎯 Modern UI/UX Experiments
+- ⚡ Interactive Motion Effects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=impintooprajapati&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impintooprajapati&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=impintooprajapati&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=impintooprajapati&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/impintooprajapati">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> "Great software isn't just built—it is crafted."
+
+⭐ If you like my work, consider starring my repositories.
