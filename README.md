@@ -81,16 +81,6 @@ smooth animations, and exceptional user experiences.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=impintooprajapati&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="left">
