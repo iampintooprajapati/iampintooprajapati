@@ -77,6 +77,7 @@ scalable Flutter architecture using Bloc/Cubit.
 
 - 🪷 **[Digital Mala – Japa Counter](https://play.google.com/store/apps/details?id=com.digitalmala.digital_mala_app)** — now live on Google Play, actively maintaining & shipping updates
 - 🌐 Building my **Digital Biography** — a personal site that tells my story, not just a resume
+- 🤫 **Quiet Thanks** — a private daily journal app, currently in progress
 - 🎬 Deep in **video engineering work** for enterprise/office apps at my day job
 - 💡 Exploring a **new project idea** — bringing an old-school concept back with a modern build
 - 🎯 Modern UI/UX experiments
